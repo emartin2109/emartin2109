@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliot Martin</h1>
-<h3 align="center">A backend developer from France</h3>
+<h3 align="center">A Passionate developer from France</h3>
 
 - 🔭 I’m currently working on [A Chess engine in c](https://github.com/emartin2109/Chess-Engine)
 
