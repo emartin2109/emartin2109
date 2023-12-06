@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/02/Bootstrap_1000.gif"/></h1>
 
+---
+
 <h1 align="center">🚀 Welcome to My GitHub! 🚀</h1>
 
 <h3 align="center">I'm Eliot Martin a passionate developer from France</h3>
