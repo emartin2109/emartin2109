@@ -31,7 +31,8 @@ experimenting with models and uncovering insights from data. 🤖 It's a side pa
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-<h3 align="left">Some random github stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emartin2109&show_icons=true&locale=en&layout=compact" alt="emartin2109" /></p>
+<h3 align="left">📊 Some random github stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emartin2109&show_icons=true&locale=en" alt="emartin2109" /></p>
+![](https://github-readme-stats.vercel.app/api?username=emartin2109&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=emartin2109&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emartin2109&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
