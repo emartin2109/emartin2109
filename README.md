@@ -9,7 +9,7 @@
 
 <h3 align="left">What i like:</h3>
 
-- Hey there! 👋 I'm deeply passionate about the intricacies of low-level programming and algorithms. 🧠💻
+- I'm deeply passionate about the intricacies of low-level programming and algorithms. 🧠💻
 
 - In addition to my coding adventures, I enjoy delving into the fascinating world of machine learning
 experimenting with models and uncovering insights from data. 🤖 It's a side passion that adds an extra layer of excitement to my coding journey.
