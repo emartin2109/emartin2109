@@ -1,11 +1,20 @@
 <h1 align="center"><img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/02/Bootstrap_1000.gif"/></h1>
 
-<h1 align="center">Hi 👋, I'm Eliot Martin</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h1 align="center">🚀 Welcome to My GitHub! 🚀</h1>
+<h3 align="center">I'm Eliot Martin a passionate developer from France</h3>
 
 - 🔭 I’m currently working on [A Chess engine in c](https://github.com/emartin2109/Chess-Engine)
 
 - 🌱 I’m currently learning **C++, C#, Designs Patterns**
+
+<h3 align="left">What i like:</h3>
+
+Hey there! 👋 I'm passionate about diving deep into the realms of low-level programming and algorithms 💻
+
+But that's not all! Machine learning is another one of my true loves. 🤖 Whether it's training models, exploring data, or fine-tuning algorithms, I find joy in the world of intelligent systems.
+
+Away from the keyboard, you'll catch me learning about the wonders of physics 🌌, plotting strategic moves on the chessboard ♟️, and scaling new heights through the thrilling sport of climbing! 🧗‍♂️
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
