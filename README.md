@@ -9,14 +9,16 @@
 
 <h3 align="left">What i like:</h3>
 
-Hey there! 👋 I'm passionate about diving deep into the realms of low-level programming and algorithms 💻
+Hey there! 👋 I'm deeply passionate about the intricacies of low-level programming and algorithms. 🧠💻
 
-But that's not all! Machine learning is another one of my true loves. 🤖 Whether it's training models, exploring data, or fine-tuning algorithms, I find joy in the world of intelligent systems.
+In addition to my coding adventures, I enjoy delving into the fascinating world of machine learning
+experimenting with models and uncovering insights from data. 🤖 It's a side passion that adds an extra layer of excitement to my coding journey.
 
-Away from the keyboard, you'll catch me learning about the wonders of physics 🌌, plotting strategic moves on the chessboard ♟️, and scaling new heights through the thrilling sport of climbing! 🧗‍♂️
+Beyond the screen, you'll find me fascinated by the wonders of physics 🌌, strategically navigating the chessboard ♟️, and reaching new heights through the thrilling sport of climbing! 🧗‍♂️
 
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">What i use:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -29,6 +31,8 @@ Away from the keyboard, you'll catch me learning about the wonders of physics �
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+
+<h3 align="left">Some random github stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emartin2109&show_icons=true&locale=en&layout=compact" alt="emartin2109" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emartin2109&show_icons=true&locale=en" alt="emartin2109" /></p>
