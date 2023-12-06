@@ -3,18 +3,18 @@
 <h1 align="center">🚀 Welcome to My GitHub! 🚀</h1>
 <h3 align="center">I'm Eliot Martin a passionate developer from France</h3>
 
-- 🔭 I’m currently working on [A Chess engine in c](https://github.com/emartin2109/Chess-Engine)
+- I’m currently working on [A Chess engine in c](https://github.com/emartin2109/Chess-Engine)
 
-- 🌱 I’m currently learning **C++, C#, Designs Patterns**
+- I’m currently learning **C++, C# and Designs Patterns**
 
 <h3 align="left">What i like:</h3>
 
-Hey there! 👋 I'm deeply passionate about the intricacies of low-level programming and algorithms. 🧠💻
+- Hey there! 👋 I'm deeply passionate about the intricacies of low-level programming and algorithms. 🧠💻
 
-In addition to my coding adventures, I enjoy delving into the fascinating world of machine learning
+- In addition to my coding adventures, I enjoy delving into the fascinating world of machine learning
 experimenting with models and uncovering insights from data. 🤖 It's a side passion that adds an extra layer of excitement to my coding journey.
 
-Beyond the screen, you'll find me fascinated by the wonders of physics 🌌, strategically navigating the chessboard ♟️, and reaching new heights through the thrilling sport of climbing! 🧗‍♂️
+- Beyond the screen, you'll find me fascinated by the wonders of physics 🌌, strategically navigating the chessboard ♟️, and reaching new heights through the thrilling sport of climbing! 🧗‍♂️
 
 
 
