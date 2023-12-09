@@ -2,13 +2,13 @@
 
 ---
 <h1 align="center">🚀 Welcome to My GitHub! 🚀</h1>
-<h3 align="center">I'm Eliot Martin a passionate developer from France</h3>
+<h3 align="center">I'm Eliot Martin, a passionate developer from France</h3>
 
 - I’m currently working on [A Chess engine in c](https://github.com/emartin2109/Chess-Engine)
 
 - I’m currently learning **C++, C# and Designs Patterns**
 
-<h3 align="left">What i like:</h3>
+<h3 align="left">What I like:</h3>
 
 - I'm deeply passionate about the intricacies of low-level programming and algorithms. 🧠💻
 
@@ -19,7 +19,7 @@ experimenting with models and uncovering insights from data. 🤖 It's a side pa
 
 
 
-<h3 align="left">What i use:</h3>
+<h3 align="left">What I use:</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
