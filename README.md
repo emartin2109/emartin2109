@@ -1,4 +1,3 @@
-<h1 align="center"><img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/02/Bootstrap_1000.gif"/></h1>
 
 ---
 <h1 align="center">🚀 Welcome to My GitHub! 🚀</h1>
@@ -6,16 +5,16 @@
 
 - I’m currently working on [A Chess engine in c](https://github.com/emartin2109/Chess-Engine)
 
-- I’m currently learning **C++, C# and Designs Patterns**
+- I’m currently learning **Rust, C# and Machine learning theory**
 
-<h3 align="left">What I like:</h3>
+<h3 align="left">What I Like:</h3>
 
-- I'm deeply passionate about the intricacies of low-level programming and algorithms. 🧠💻
+- I enjoy working on low-level programming, algorithms, and improving code architecture with design patterns. 🧠💻
 
-- In addition to my coding adventures, I enjoy delving into the fascinating world of machine learning
-experimenting with models and uncovering insights from data. 🤖 It's a side passion that adds an extra layer of excitement to my coding journey.
+- I also have an interest in machine learning, where I like experimenting with models and working with data. 🤖
 
-- Beyond the screen, you'll find me fascinated by the wonders of physics 🌌, strategically navigating the chessboard ♟️, and reaching new heights through the thrilling sport of climbing! 🧗‍♂️
+- Outside of coding, I spend time learning about history 📜, playing chess ♟️, and going climbing 🧗‍♂️.
+
 
 
 
@@ -24,16 +23,20 @@ experimenting with models and uncovering insights from data. 🤖 It's a side pa
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)
+
 
 
 <h3 align="left">📊 Some random github stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=emartin2109&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=emartin2109&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emartin2109&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emartin2109&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
