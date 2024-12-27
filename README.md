@@ -38,5 +38,5 @@
 
 <h3 align="left">📊 Some random github stats:</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emartin2109&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com?user=emartin2109&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emartin2109&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
