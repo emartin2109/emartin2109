@@ -5,7 +5,7 @@
 
 - I’m currently working on a [custom machine learning library in c++](https://github.com/emartin2109/my-ml-library)
 
-- I’m currently learning **Rust, C# and Machine learning theory**
+- I’m currently learning **Machine learning theory and Quantitative trading algorithms**
 
 <h3 align="left">What I Like:</h3>
 
