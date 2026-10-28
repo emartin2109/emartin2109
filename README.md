@@ -3,17 +3,13 @@
 <h1 align="center">🚀 Welcome to My GitHub! 🚀</h1>
 <h3 align="center">I'm Eliot Martin, a passionate developer from France</h3>
 
-- I’m currently working on a [custom machine learning library in c++](https://github.com/emartin2109/my-ml-library)
-
-- I’m currently learning **Machine learning theory and Quantitative trading algorithms**
-
 <h3 align="left">What I Like:</h3>
 
 - I enjoy working on low-level programming, algorithms, and improving code architecture with design patterns. 🧠💻
 
 - I also have an interest in machine learning, where I like experimenting with models and working with data. 🤖
 
-- Outside of coding, I spend time learning about history 📜, playing chess ♟️, and going climbing 🧗‍♂️.
+- Outside of coding, I spend time playing chess ♟️, and going climbing 🧗‍♂️.
 
 
 
